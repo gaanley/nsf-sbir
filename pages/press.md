@@ -4,7 +4,7 @@ permalink: /press/
 layout: secondary-narrow
 ---
 
-# Press
+# Press New
 
 ## Media inquiries
 
