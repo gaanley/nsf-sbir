@@ -1,5 +1,5 @@
 ---
-title: About
+title: About US
 permalink: /about/
 layout: secondary
 section_image: "/assets/img/bg/robotic-arm.jpg"
